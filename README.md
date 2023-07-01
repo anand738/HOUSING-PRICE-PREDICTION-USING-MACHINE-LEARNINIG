@@ -1,17 +1,17 @@
 # HOUSING-PRICE-PREDICTION-USING-MACHINE-LEARNINIG
 
 
-This project aims to predict the home prices in the Bengaluru area using machine learning techniques based based on Kaggle Housing Prices prediction dataset.
+This project aims to predict house prices based on the key features in Bangalore using machine learning techniques based on the Kaggle Housing Prices prediction dataset.
 
-Technique used in this project
+The technique used in this project
 
 1. Python
 2. Numpy and Pandas for data cleaning
 3. Matplotlib for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code 
+5. Jupyter Notebook, Visual Studio code 
 
-Below data science concepts are used in this project
+Below are data science concepts used in this project
 
 1. Data loading and cleaning
 2. Outlier detection and removal
