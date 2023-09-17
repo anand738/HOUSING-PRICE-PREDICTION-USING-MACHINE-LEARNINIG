@@ -9,7 +9,7 @@ The technique used in this project
 2. Numpy and Pandas for data cleaning
 3. Matplotlib for data visualization
 4. Sklearn for model building
-5. Jupyter Notebook, Visual Studio code 
+5. Jupyter Notebook, Visual Studio Code 
 
 Below are data science concepts used in this project
 
@@ -18,4 +18,4 @@ Below are data science concepts used in this project
 3. Feature engineering
 4. Dimensionality reduction
 5. Gridsearchcv for hyperparameter tunning
-6. K fold cross validation
+6. K fold cross-validation
